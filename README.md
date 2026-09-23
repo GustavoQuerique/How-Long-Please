@@ -1,4 +1,4 @@
-# ⏱ Clock In
+#  Clock In
 
 Sistema web para registro e acompanhamento de horas trabalhadas, desenvolvido com React.
 
